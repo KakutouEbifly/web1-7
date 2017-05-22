@@ -1,1 +1,24 @@
+@charset "UTF-8";
 
+.GoLeft{
+  width: 1000px;
+  float: left;
+}
+
+#topic1{
+  width: 50%;
+  background-color: limegreen;
+}
+
+#topic2{
+  width: 50%;
+  background-color: paleturquoise;
+}
+
+section p span{
+  color: red;
+}
+
+aside{
+  float: left;
+}
