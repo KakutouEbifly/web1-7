@@ -46,3 +46,11 @@ aside{
   float: right;
   overflow: scroll;
 }
+
+#tsuyoi{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50;
+  z-index: -1;
+}
