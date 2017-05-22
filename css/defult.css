@@ -43,4 +43,5 @@ section p span{
 
 aside{
   float: right;
+  overflow: scroll;
 }
