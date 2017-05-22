@@ -1,20 +1,40 @@
 @charset "UTF-8";
 
-.GoLeft{
-  width: 70%;
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: yellow;
+}
+
+body{
+  background-color: khaki;
+}
+
+#topicKing{
+  background-color: olive;
+  width: calc(100%-200px);
+  min-width: 500px;
   float: left;
 }
 
 #topic1{
-  width: 50%;
+  width: 500px;
   background-color: limegreen;
   float: left;
 }
 
 #topic2{
-  width: 50%;
+  width: 500px;
   background-color: paleturquoise;
   float: left;
+}
+
+footer{
+  background-color: navajowhite;
+  clear: both;
 }
 
 section p span{
