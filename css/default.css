@@ -15,7 +15,7 @@ body{
 
 #topicKing{
   background-color: olive;
-  width: calc(100%-200px);
+  width: calc(100% - 200px);
   min-width: 500px;
   float: left;
 }
@@ -51,6 +51,6 @@ aside{
   width: 24px;
   position: absolute;
   left: 50px;
-  top: 50;
+  top: 50px;
   z-index: -1;
 }
