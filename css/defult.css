@@ -8,11 +8,13 @@
 #topic1{
   width: 50%;
   background-color: limegreen;
+  float: left;
 }
 
 #topic2{
   width: 50%;
   background-color: paleturquoise;
+  float: left;
 }
 
 section p span{
@@ -20,5 +22,5 @@ section p span{
 }
 
 aside{
-  float: left;
+  float: rihgt;
 }
