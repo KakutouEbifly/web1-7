@@ -13,20 +13,20 @@ body{
   background-color: khaki;
 }
 
-section #topicKing{
+#topicKing{
   background-color: olive;
   width: calc(100%-200px);
   min-width: 500px;
   float: left;
 }
 
-section article #topic1{
+#topic1{
   width: 500px;
   background-color: limegreen;
   float: left;
 }
 
-section article #topic2{
+#topic2{
   width: 500px;
   background-color: paleturquoise;
   float: left;
