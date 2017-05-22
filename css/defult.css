@@ -42,6 +42,7 @@ section p span{
 }
 
 aside{
+  width: 200px;
   float: right;
   overflow: scroll;
 }
